@@ -69,7 +69,7 @@ spacing.fixed.px: 20
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: I'm
-secondTitle: YOUR_NAME,
+secondTitle: Saurabh Asthana,
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: frontend
@@ -108,7 +108,7 @@ isNewTab: true
 spacing.fixed.px: 10
 
 -- social.social-button-wrapper:
-link: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
+link: https://linkedin.com/in/saurabh-asthana-439086266/
 image: $assets.files.images.linkedin.png
 
 -- social.social-button-wrapper:
